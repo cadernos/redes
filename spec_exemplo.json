@@ -1,0 +1,248 @@
+{
+ "slug": "ID723",
+ "cards": [
+  {
+   "id": "C00",
+   "modelo": "4A",
+   "pt": {
+    "editoria": "Nova publicação | **Ensaio teórico**",
+    "titulo": "O valor econômico das línguas ameaçadas",
+    "autores": [
+     [
+      "Camiel Hamans",
+      "Comité International Permanent des Linguistes"
+     ],
+     [
+      "Hein van der Voort",
+      "Museu Paraense Emílio Goeldi"
+     ],
+     [
+      "Miguel Oliveira Jr.",
+      "Universidade Federal de Alagoas"
+     ],
+     [
+      "Katia Silene Costa Valdenilson",
+      "Secretaria da Educação"
+     ]
+    ]
+   },
+   "en": {
+    "editoria": "New publication | **Theoretical essay**",
+    "titulo": "The Economic Value of Endangered Languages",
+    "autores": [
+     [
+      "Camiel Hamans",
+      "Comité International Permanent des Linguistes"
+     ],
+     [
+      "Hein van der Voort",
+      "Museu Paraense Emílio Goeldi"
+     ],
+     [
+      "Miguel Oliveira Jr.",
+      "Universidade Federal de Alagoas"
+     ],
+     [
+      "Katia Silene Costa Valdenilson",
+      "Secretaria da Educação"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "C01",
+   "modelo": "1A",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "titulo": "Quanto vale uma {{língua}}?"
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "titulo": "What is a {{language}} worth?"
+   }
+  },
+  {
+   "id": "C02",
+   "modelo": "1C",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "titulo": "Voz viva"
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "titulo": "Living voice"
+   }
+  },
+  {
+   "id": "C03",
+   "modelo": "1E",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "titulo": "Falar uma só língua não garante comunicação eficiente entre os povos"
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "titulo": "Speaking a single language does not guarantee efficient communication"
+   }
+  },
+  {
+   "id": "C04",
+   "modelo": "2A",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "subtitulo": "Línguas e saúde pública",
+    "texto": "Durante o surto de ebola de 2014, as orientações circulavam em inglês e francês, mas só cerca de 20% da população dos países mais afetados falava essas línguas. O ensaio discute o {{custo humano e econômico}} dessa falha."
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "subtitulo": "Languages and public health",
+    "texto": "During the 2014 Ebola outbreak, guidance circulated in English and French, yet only about 20% of people in the most affected countries spoke them. The essay discusses the {{human and economic cost}} of that gap."
+   }
+  },
+  {
+   "id": "C05",
+   "modelo": "3",
+   "pt": {
+    "editoria": "Dado numérico",
+    "numero": "20%",
+    "legenda": "falavam inglês ou francês",
+    "titulo": "O valor econômico das línguas ameaçadas",
+    "referencia": "HAMANS, C. et al., 2024."
+   },
+   "en": {
+    "editoria": "Key figure",
+    "numero": "20%",
+    "legenda": "spoke English or French",
+    "titulo": "The economic value of endangered languages",
+    "referencia": "HAMANS, C. et al., 2024."
+   }
+  },
+  {
+   "id": "C06",
+   "modelo": "6A",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "pergunta": "Preservar línguas ameaçadas tem valor econômico?",
+    "resposta": "O ensaio argumenta que sim: a diversidade linguística tem {{contribuições econômicas diretas e indiretas}}, do comércio on-line à comunicação em saúde."
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "pergunta": "Does preserving endangered languages have economic value?",
+    "resposta": "The essay argues that it does: linguistic diversity makes {{direct and indirect economic contributions}}, from online trade to health communication."
+   }
+  },
+  {
+   "id": "C07",
+   "modelo": "13A",
+   "pt": {
+    "legenda": "Mais da metade das línguas do mundo pode desaparecer.",
+    "imagem": "imagem_teste.png"
+   },
+   "en": {
+    "legenda": "More than half of the world's languages may disappear.",
+    "imagem": "imagem_teste.png"
+   }
+  },
+  {
+   "id": "C08",
+   "modelo": "14A",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "subtitulo": "Diversidade tem valor",
+    "texto": "O ensaio discute contribuições econômicas diretas e indiretas das línguas ameaçadas.",
+    "imagem": "imagem_teste.png"
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "subtitulo": "Diversity has value",
+    "texto": "The essay discusses direct and indirect economic contributions of endangered languages."
+   }
+  },
+  {
+   "id": "C09",
+   "modelo": "9A",
+   "pt": {
+    "editoria": "Revisão aberta | **Cadernos de Linguística**",
+    "cabecalho": "Parecer público¹",
+    "autor": "Nome do Parecerista",
+    "texto": "Trecho do parecer de teste, com extensão aproximada de um card real, para verificar quebra de linha e ocupação da caixa arredondada."
+   },
+   "en": {
+    "editoria": "Open review | **Cadernos de Linguística**",
+    "cabecalho": "Public review¹",
+    "autor": "Reviewer Name",
+    "texto": "Test review excerpt with roughly the length of a real card, to check line breaks and how the rounded box is filled."
+   }
+  },
+  {
+   "id": "C11",
+   "modelo": "7B",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "palavras": [
+     "línguas ameaçadas",
+     "economia",
+     "multilinguismo",
+     "diversidade"
+    ],
+    "citacao": "“[...] o estado original das sociedades humanas é provavelmente multilíngue”.",
+    "referencia": "HAMANS, C. et al., 2024."
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "palavras": [
+     "endangered languages",
+     "economy",
+     "multilingualism",
+     "diversity"
+    ],
+    "citacao": "“[...] the original state of human societies is probably multilingual”.",
+    "referencia": "HAMANS, C. et al., 2024."
+   }
+  },
+  {
+   "id": "C10",
+   "modelo": "8A",
+   "pt": {
+    "editoria": "Leia em **Cadernos de Linguística**",
+    "citacao": "“Steurs (2016:34-36) convincingly shows how much more eBay’s profit increased when the platform was able to present its offerings {{in Russian as well}}”.",
+    "referencia": "HAMANS, C. et al., 2024, p. 9."
+   },
+   "en": {
+    "editoria": "Read in **Cadernos de Linguística**",
+    "citacao": "“Steurs (2016:34-36) convincingly shows how much more eBay’s profit increased when the platform was able to present its offerings {{in Russian as well}}”.",
+    "referencia": "HAMANS, C. et al., 2024, p. 9."
+   }
+  },
+  {
+   "id": "B01",
+   "modelo": "10B",
+   "pt": {
+    "editoria": "Conheça a equipe editorial",
+    "nome": "Nome {{Sobrenome}}",
+    "minibio": "Professora de linguística em uma universidade pública brasileira, pesquisa variação sonora do português e ensino de língua materna."
+   },
+   "en": {
+    "editoria": "Meet the editorial team",
+    "nome": "Name {{Surname}}",
+    "minibio": "Linguistics professor at a Brazilian public university, researching sound variation in Portuguese and first-language teaching."
+   }
+  },
+  {
+   "id": "C09n",
+   "modelo": "9C",
+   "pt": {
+    "editoria": "Revisão aberta | **Cadernos de Linguística**",
+    "nota": "Trecho do parecer do artigo {{O valor econômico das línguas ameaçadas}}, de Hamans et al. (2024).",
+    "enviado": "Enviado: DD/MM/AAAA",
+    "publicado": "Publicado em: DD/MM/AAAA"
+   },
+   "en": {
+    "editoria": "Open review | **Cadernos de Linguística**",
+    "nota": "Excerpt from the review of {{The Economic Value of Endangered Languages}}, by Hamans et al. (2024).",
+    "enviado": "Submitted: DD/MM/YYYY",
+    "publicado": "Published: DD/MM/YYYY"
+   }
+  }
+ ]
+}
